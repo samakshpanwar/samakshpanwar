@@ -2,7 +2,7 @@
 
 
 
-### Hi there, I am Samaksh 👋
+### Hi there, I am Samaksh 
 
 [![Gmail Badge](https://img.shields.io/badge/-samaksh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samakshpanwar66@gmail.com)](mailto:samakshpanwar66@gmail.com) ![](https://komarev.com/ghpvc/?username=samakshpanwar&color=blueviolet)
 
@@ -34,5 +34,5 @@
 
 
 <div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp;</h3>
+    <h3 align="center">Show some &nbsp;🤍&nbsp;</h3>
 </div>
