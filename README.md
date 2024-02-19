@@ -1,18 +1,32 @@
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 
+class Student:
 
-### Hi there, I am Samaksh 
+    def __init__(self):
+        self.name = "Samaksh Panwar"
+        self.role = "Student"
+        
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = Student()
+me.say_hi()
+```
 
 [![Gmail Badge](https://img.shields.io/badge/-samaksh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samakshpanwar66@gmail.com)](mailto:samakshpanwar66@gmail.com) ![](https://komarev.com/ghpvc/?username=samakshpanwar&color=blueviolet)
 
 
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.
 
-💻 **Things I love**
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development 
-- Machine Learning
+💻 **Things I love**                                                                                        <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhxMGM2bXJqcG1idzFnN2R5OXF0ZjlwZW81bHJucjZ6eG5qNWpwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Coder GIF" width="400" height="230">
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">    
+- Backend Development                                                                           
+- Machine Learning                                                                           
 - Anime
 - Gaming
 
@@ -22,15 +36,14 @@
 
   
     
-🛠**Tech Stack**
+🛠**SKILLS**
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,c,cpp,ps,pr,ae,blender,mysql&perline=10)](https://skillicons.dev)
 
 
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+
+
+
 
 
 <div align="center">
