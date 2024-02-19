@@ -36,8 +36,9 @@ me.say_hi()
 
   
     
-🛠**SKILLS**
 
+
+🛠**SKILLS**
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,c,cpp,ps,pr,ae,blender,mysql&perline=10)](https://skillicons.dev)
 
 
